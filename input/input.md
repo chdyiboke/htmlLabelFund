@@ -45,3 +45,36 @@ input 标签：根据不同的 type 属性值，输入字段拥有很多种形�
 22.url　　　　　　　　　　　　　　输入url字段，苹果浏览器不支持
 
 23.week　　　　　　　　　　　　　定义week和year控件，IE和火狐不支持
+
+视频：
+http://www.51zxw.net/list.aspx?page=2&cid=540
+第一节：
+1、type属性
+2、maxLength
+3、value :默认值
+4、name：属性
+
+
+1、提交类型、
+2、重置类型、
+
+第二节：
+1、image类型：图片按钮
+2、hide类型：隐藏
+3、readonly属性：只读 readonly="readonly"
+4、disable属性：背景灰色、不会被提交
+
+
+第三节：
+1、email属性：email（figure用作文档中插图的图像：
+
+第四节：
+
+1、require属性：规定必需在提交之前填写输入字段  required="required"
+2、url属性：
+3、tel属性：电话号码（不验证：电话号码格式很多）自动切换数字列
+
+第五节：
+1、number属性：数字
+2、range(活动条)：默认值。设置....
+
